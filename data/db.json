@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My new Website",
+      "body": "Why do we use it?\nIt is a long establishment fact that a reader need to be followed. Why do we use it?\nIt is a long establishment fact that a reader need to be followed. Why do we use it?\nIt is a long establishment fact that a reader need to be followed. Why do we use it?\nIt is a long establishment fact that a reader need to be followed. Why do we use it?\nIt is a long establishment fact that a reader need to be followed.",
+      "author": "Mario",
+      "id": 1
+    },
+    {
+      "title": "Welcom Party!",
+      "body": "lorem ipsum Why do we use it?\nIt is a long establishment fact that a reader need to be followed. Why do we use it?\nIt is a long establishment fact that a reader need to be followed. Why do we use it?\nIt is a long establishment fact that a reader need to be followed. Why do we use it?\nIt is a long es Why do we use it?\nIt is a long establishment fact that a reader need to be followed.tablishment fact that a reader need to be followed.",
+      "author": "Yoshi",
+      "id": 2
+    }
+  ]
+}
